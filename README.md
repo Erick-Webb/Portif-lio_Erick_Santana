@@ -48,7 +48,6 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sistema] 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A corrida de prompt** | A busca constante por criar comandos cada vez mais eficazes para extrair melhores resultados de IA | [Ver Projeto](Projeto-A-corrida-de-prompt) |
-
 **A batalha de modelos e engenharia de prompt** | batalha de modelos de IA e a engenharia de prompt é equilibrada entre aspectos positivos e pontos de atenção. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
  
  
