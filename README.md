@@ -47,6 +47,7 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sistema] 
 | :--- | :--- | :---: |
 | **A corrida de prompt** | A busca constante por criar comandos cada vez mais eficazes para extrair melhores resultados de IA | [Ver Projeto](Projeto-A-corrida-de-prompt) |
 **Engenharia Reversa** | ele é um template de prompt profissional para desenvolvimento de projetos com IA | [Ver Projeto](Projeto-Engenharia-Reversa) |
+**Mecanismo do viés** | O mecanismo do viés em modelos de Inteligência Artificial pode ser entendido como o processo pelo qual o sistema aprende padrões distorcidos a partir dos dados fornecidos durante o treinamento. | [Ver Projeto](projeto-Laboratorio-de-classificação-visual) |
  
  
 #### 🤖 Inteligência Artificial
