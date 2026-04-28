@@ -46,13 +46,13 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sistema] 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A corrida de prompt** | A busca constante por criar comandos cada vez mais eficazes para extrair melhores resultados de IA | [Ver Projeto](Projeto-A-corrida-de-prompt) |
-**A batalha de modelos e engenharia de prompt** | batalha de modelos de IA e a engenharia de prompt é equilibrada entre aspectos positivos e pontos de atenção. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
+**Engenharia Reversa** | ele é um template de prompt profissional para desenvolvimento de projetos com IA | [Ver Projeto](Projeto-Engenharia-Reversa) |
  
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **A batalha de modelos e engenharia de prompt** | batalha de modelos de IA e a engenharia de prompt é equilibrada entre aspectos positivos e pontos de atenção. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
  
 ---
  
