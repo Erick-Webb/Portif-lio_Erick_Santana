@@ -47,7 +47,7 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sistema] 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **A corrida de prompt** | A busca constante por criar comandos cada vez mais eficazes para extrair melhores resultados de IA | [Ver Projeto](Projeto-A-corrida-de-prompt) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
