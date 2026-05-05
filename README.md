@@ -42,7 +42,8 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **SM1 - A Corrida do Prompt** | Este prompt é para um retrato aproximado, destacando o capacete, as emoções e os detalhes do traje | [Ver Projeto](Projeto-A-corrida-de-prompt) |
+| **SM1 - A Corrida do Prompt** | Este prompt é para um retrato aproximado, destacando o capacete, as emoções e os detalhes do traje | [Ver Projeto](Projeto-A-corrida-de-prompt) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
