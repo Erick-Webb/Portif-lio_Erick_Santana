@@ -47,7 +47,7 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | construir um Prompt Estruturado em XML para gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
 | **SM4 - Engenharia Reversa** | a posição de Desenvolvedor de Software assistido por IA.  | [Ver Projeto](Projeto-engenharia-reversa) |
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva,  | [Ver Projeto](Projeto-clone-produto-viavel) |
-| **SM4 - Engenharia Reversa** | a posição de Desenvolvedor de Software assistido por IA.  | [Ver Projeto](Projeto-engenharia-reversa) |
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Aplicativo em Bubble.oi | [Ver Projeto](Projeto-bubble-io) |
 
 
  
