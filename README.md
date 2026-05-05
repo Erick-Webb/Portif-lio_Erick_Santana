@@ -15,7 +15,7 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
  
 * **Habilidades Técnicas:** [Ex: Python, JavaScript, SQL, CSS, HTML].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:**Atuei em um projeto de iniciação científica na área de tecnologia, onde desenvolvi um modelo de classificação de imagens utilizando inteligência artificial, contribuindo para a melhoria na precisão de identificação de padrões visuais.
  
 ---
  
