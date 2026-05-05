@@ -44,7 +44,8 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Este prompt é para um retrato aproximado, destacando o capacete, as emoções e os detalhes do traje | [Ver Projeto](Projeto-A-corrida-de-prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Utilize o navegador para acessar o Teachable Machine (Google) e realize o treinamento de um modelo de imagem simples| [Ver Projeto](projeto-Laboratorio-de-classificação-visual) |
-| **SM2 - Laboratório de Classificação Visual** | Utilize o navegador para acessar o Teachable Machine (Google) e realize o treinamento de um modelo de imagem simples| [Ver Projeto](projeto-Laboratorio-de-classificação-visual) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | construir um Prompt Estruturado em XML para gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | construir um Prompt Estruturado em XML para gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto](Projeto-batalhas-de-modelos-e-engenharia-de-prompt) |
 
  
 
