@@ -48,6 +48,8 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+ 
  
 ---
  
