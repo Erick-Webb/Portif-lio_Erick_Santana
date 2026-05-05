@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777936563667,
+      "tag": "0000_good_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777936696958,
+      "tag": "0001_foamy_blackheart",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777938492592,
+      "tag": "0002_glamorous_kang",
+      "breakpoints": true
+    }
+  ]
+}
