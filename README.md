@@ -43,14 +43,11 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Este prompt é para um retrato aproximado, destacando o capacete, as emoções e os detalhes do traje | [Ver Projeto](Projeto-A-corrida-de-prompt) |
-| **SM1 - A Corrida do Prompt** | Este prompt é para um retrato aproximado, destacando o capacete, as emoções e os detalhes do traje | [Ver Projeto](Projeto-A-corrida-de-prompt) |
+| **SM2 - Laboratório de Classificação Visual** | Utilize o navegador para acessar o Teachable Machine (Google) e realize o treinamento de um modelo de imagem simples| [Ver Projeto](projeto-Laboratorio-de-classificação-visual) |
+| **SM2 - Laboratório de Classificação Visual** | Utilize o navegador para acessar o Teachable Machine (Google) e realize o treinamento de um modelo de imagem simples| [Ver Projeto](projeto-Laboratorio-de-classificação-visual) |
+
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+
  
 ---
  
