@@ -51,17 +51,6 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** |  tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source | [Ver Projeto](Projeto-video-treino) |
 | **SM8 - Composição Musical Assistida por Inteligência Artificial** |  Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico | [Ver Projeto](Projeto-musica-ia) |
 
-# 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Webb&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Webb&layout=compact&theme=tokyonight)
-
----
-
-# 🚀 Objetivo
-
-Construir soluções tecnológicas inovadoras utilizando programação, Inteligência Artificial e desenvolvimento de software para gerar impacto positivo e evolução profissional contínua.
 
 
  
