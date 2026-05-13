@@ -49,6 +49,7 @@ Atualmente cursando o [2º] período de [Analise de Desenvolvimento de Sitema] n
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva,  | [Ver Projeto](Projeto-clone-produto-viavel) |
 | **SM6 - Engenharia de Software e IA com Bubble.io** | Aplicativo em Bubble.oi | [Ver Projeto](Projeto-bubble-io) |
 | **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** |  tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source | [Ver Projeto](Projeto-video-treino) |
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** |  Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico | [Ver Projeto](Projeto-video-treino) |
 
 
  
