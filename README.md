@@ -6,7 +6,7 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-santana-3045841bb)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santana.erick1020@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/18SnLN7n4HhuKwBdoxQ5GpVD1p591unnD5A3jpNjR8hg/edit?usp=drive_link))
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/18SnLN7n4HhuKwBdoxQ5GpVD1p591unnD5A3jpNjR8hg/edit?usp=drive_link)
  
 ---
  
