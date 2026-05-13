@@ -23,7 +23,7 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 |------|------|------|------|
-| 01 | Quintal do Amanhã | Samba de Raiz / Partido Alto | [Arquivo MP3](Projeto-musica-ia/Quintal do Amanhã.mp3) |
+| 01 | Quintal do Amanhã | Samba de Raiz / Partido Alto | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Quintal%20do%20Amanha.mp3)  |
 | 02 | Planeta Solidão | Samba-Enredo / Pagode Romântico | [Arquivo MP3](LINK_AQUI) |
 | 03 | Segredo da Paixão | Pagode Romântico / Swingue | [Arquivo MP3](LINK_AQUI) |
 | 04 | Manual da Vida | Samba de Mensagem / Motivacional | [Arquivo MP3](LINK_AQUI) |
