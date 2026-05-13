@@ -17,6 +17,10 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 - Prompt Engineering
 - RAG (Retrieval-Augmented Generation)
 
+- 🚀 Assistente Personalizado
+O assistente utilizado como apoio criativo para estruturação das músicas e prompts foi baseado em técnicas de engenharia de prompt aplicadas ao Gemini Gems.
+
+https://gemini.google.com/gem/75b583bec2ad/2830d9ed0737bea7
 ---
 
 ## 🎧 Músicas Geradas
