@@ -23,11 +23,11 @@ O objetivo final foi produzir um EP com 5 faixas inéditas, cujas letras foram g
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 |------|------|------|------|
-| 01 | Quintal do Amanhã | Samba de Raiz / Partido Alto | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Quintal%20do%20Amanha.mp3)  |
-| 02 | Planeta Solidão | Samba-Enredo / Pagode Romântico | [Arquivo MP3](LINK_AQUI) |
-| 03 | Segredo da Paixão | Pagode Romântico / Swingue | [Arquivo MP3](LINK_AQUI) |
-| 04 | Manual da Vida | Samba de Mensagem / Motivacional | [Arquivo MP3](LINK_AQUI) |
-| 05 | Namoro de Antigamente | Samba de Breque / Pagode Lúdico | [Arquivo MP3](LINK_AQUI) |
+| 01 | Quintal do Amanhã | Samba de Raiz / Partido Alto | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Quintal%20do%20Amanh%C3%A3.mp3) |
+| 02 | Planeta Solidão | Samba-Enredo / Pagode Romântico | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Planeta%20Solid%C3%A3o.mp3) |
+| 03 | Segredo da Paixão | Pagode Romântico / Swingue | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Segredo%20Da%20Paix%C3%A3o.mp3) |
+| 04 | Manual da Vida | Samba de Mensagem / Motivacional | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Manual%20da%20Vida.mp3) |
+| 05 | Namoro de Antigamente | Samba de Breque / Pagode Lúdico | [Arquivo MP3](https://github.com/Erick-Webb/portfolio-erick-dos-santos-santana/raw/main/Projeto-musica-ia/Namoro%20de%20Antigamente.mp3) |
 ---
 
 ## 🛠 Processo de Criação
