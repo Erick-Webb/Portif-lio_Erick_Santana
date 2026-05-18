@@ -34,5 +34,5 @@ A “Corrida do Prompt” consiste em testar diferentes formas de solicitar uma 
 ## ▶️ Como visualizar
 Abra os arquivos disponíveis nesta pasta para acompanhar os testes e resultados da atividade.
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 Erick dos santos santana
