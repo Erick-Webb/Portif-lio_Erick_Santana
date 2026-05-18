@@ -1,37 +1,53 @@
 🔍 SM4 - Engenharia Reversa
 📌 Descrição
-Este projeto aborda a prática de engenharia reversa aplicada a sistemas ou estruturas existentes, com o objetivo de compreender seu funcionamento e reconstruir sua lógica a partir da análise.
+
+Este projeto tem como foco a aplicação de técnicas de engenharia reversa em sistemas, estruturas ou modelos já existentes. O objetivo principal é compreender seu funcionamento interno e reconstruir sua lógica por meio da análise detalhada de seus componentes e comportamentos.
 
 🎯 Objetivo
-Analisar um sistema, modelo ou resultado já existente e identificar sua estrutura, regras e funcionamento interno, aplicando conceitos de engenharia reversa.
 
-🛠️ Tecnologias utilizadas
-Análise de sistemas
-Modelagem de dados (quando aplicável)
-Engenharia de Prompt (quando aplicado a IA)
-Ferramentas de apoio à análise
-🧠 Conceitos trabalhados
-Engenharia reversa
-Interpretação de estruturas existentes
-Identificação de padrões
-Reconstrução de lógica
-📊 Conteúdo
+Analisar um sistema, modelo ou resultado previamente desenvolvido, identificando sua estrutura, padrões, regras e funcionamento interno, utilizando conceitos e práticas de engenharia reversa.
+
+🛠️ Tecnologias Utilizadas
+Análise de Sistemas
+Modelagem de Dados (quando aplicável)
+Engenharia de Prompt (aplicada em projetos com IA)
+Ferramentas de apoio à análise e documentação
+🧠 Conceitos Trabalhados
+Engenharia Reversa
+Interpretação de Estruturas Existentes
+Identificação de Padrões
+Reconstrução de Lógica
+Análise de Funcionamento Interno
+📊 Conteúdo do Projeto
+
+O projeto contempla:
+
 Objeto de análise (sistema, modelo ou resultado)
 Etapas da análise realizada
-Reconstrução da estrutura
-Hipóteses levantadas
-Resultados obtidos
+Reconstrução da estrutura identificada
+Hipóteses levantadas durante o processo
+Resultados obtidos após validações
 🔄 Metodologia
-Observação do sistema ou saída
-Identificação de padrões e regras
-Formulação de hipóteses
-Validação das hipóteses por testes
+
+A metodologia utilizada foi dividida nas seguintes etapas:
+
+Observação do sistema ou da saída analisada
+Identificação de padrões e regras de funcionamento
+Formulação de hipóteses sobre sua estrutura interna
+Realização de testes para validação das hipóteses
+Documentação dos resultados encontrados
 💡 Aprendizados
-Desenvolvimento do pensamento analítico
-Compreensão de sistemas complexos
-Importância da observação detalhada
-▶️ Como visualizar
-Abra os arquivos disponíveis nesta pasta para acompanhar o processo de análise e os resultados.
+
+Durante o desenvolvimento deste projeto, foi possível aprimorar:
+
+O pensamento analítico e investigativo
+A compreensão de sistemas complexos
+A capacidade de interpretação lógica
+A importância da observação detalhada e da validação de hipóteses
+▶️ Como Visualizar
+
+Abra os arquivos disponíveis neste repositório para acompanhar todo o processo de análise, documentação e os resultados obtidos ao longo do projeto.
 
 👩‍💻 Autor
+
 Erick dos santos santana
